@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ready67.aternos.me:55959",
+    "ip": "Ready67.aternos.me",
     "port": 55959,
     "version": "1.21.11"
   },
